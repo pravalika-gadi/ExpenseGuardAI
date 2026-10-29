@@ -1,0 +1,11 @@
+transaction_id,employee_id,date,category,description,amount,receipt_attached
+EXP-201,EMP-201,2026-10-01,Meals,Lunch with prospective vendor partner,920.0,Yes
+EXP-202,EMP-202,2026-10-02,Travel,Train ticket to regional branch office,1650.0,Yes
+EXP-203,EMP-203,2026-10-03,Software,Team project management subscription,4500.0,Yes
+EXP-204,EMP-204,2026-10-04,Office Supplies,Whiteboards and markers for sprint room,1200.0,Yes
+EXP-205,EMP-205,2026-10-05,Lodging,Corporate discount hotel single room,8900.0,Yes
+EXP-206,EMP-201,2026-10-06,Meals,Breakfast during airport layover,350.0,No
+EXP-207,EMP-206,2026-10-07,Travel,Client site taxi fare round trip,780.0,Yes
+EXP-208,EMP-207,2026-10-08,Office Supplies,Printer ink cartridges for finance department,2450.0,Yes
+EXP-209,EMP-208,2026-10-09,Software,SSL digital certificate renewal,2100.0,Yes
+EXP-210,EMP-209,2026-10-10,Entertainment,Client networking coffee meeting,650.0,Yes

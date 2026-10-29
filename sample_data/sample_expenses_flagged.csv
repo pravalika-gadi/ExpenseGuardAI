@@ -1,0 +1,17 @@
+transaction_id,employee_id,date,category,description,amount,receipt_attached
+EXP-101,EMP-101,2026-10-10,Meals,Client luncheon discussion,850.0,Yes
+EXP-102,EMP-102,2026-10-11,Meals,Executive team celebration dinner,2850.0,Yes
+EXP-103,EMP-103,2026-10-12,Travel,Round-trip flight to Delhi office,8500.0,Yes
+EXP-104,EMP-104,2026-10-13,Software,Monthly developer IDE license,800.0,Yes
+EXP-105,EMP-104,2026-10-13,Software,Monthly developer IDE license,800.0,Yes
+EXP-106,EMP-105,2026-10-14,Meals,Working project team lunch,1250.0,No
+EXP-107,EMP-101,2026-10-14,Office Supplies,Notebooks and pens for workshop,420.0,Yes
+EXP-108,,2026-10-15,Travel,,1400.0,Yes
+EXP-109,EMP-106,2026-10-15,Travel,Fuel reimbursement credit adjustment,-350.0,Yes
+EXP-110,EMP-107,2026-10-16,Entertainment,VIP client hospitality event tickets,3800.0,Yes
+EXP-111,EMP-103,2026-10-13,Travel,Summit conference airfare rebooking,8500.0,Yes
+EXP-112,EMP-108,2026-10-17,Travel,Airport transfer express taxi,950.0,No
+EXP-113,EMP-102,2026-10-18,Lodging,3 nights hotel stay during client conference,13800.0,Yes
+EXP-114,EMP-109,2027-05-15,Travel,Next year annual leadership conference,4200.0,Yes
+EXP-115,EMP-110,2026-10-19,Office Supplies,Ergonomic dual-monitor desk mount,2100.0,Yes
+EXP-116,EMP-105,2026-10-20,Software,Cloud database staging cluster tier,7200.0,Yes
